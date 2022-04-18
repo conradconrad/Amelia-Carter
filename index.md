@@ -1,1 +1,2 @@
 # Amelia Carter
+is a student in [The Environmental Humanities Graduate Program](https://environmental-humanities.utah.edu/directory/students.php#modal-carter) at the University of Utah. She holds a BA in Media, Society, and the Arts from [Purchase College](https://www.purchase.edu/academics/school-of-film-and-media-studies/awards/), State University of New York.

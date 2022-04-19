@@ -1,3 +1,2 @@
 # Writing
 
-## Forthcoming Publications

@@ -1,4 +1,3 @@
 # Publications
 
 ## Forthcoming
-Edge Effects

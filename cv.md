@@ -13,7 +13,7 @@ Environmental Humanities, Expected May 2023
 
 **Bachelor of Arts,** SUNY Purchase 
 
-Media, Society & the Arts | Art History | Film, May 2018
+Media, Society & the Arts \| Art History \| Film, May 2018
 
 ## Skills
 - Scientific, Professional and Public-facing writing 

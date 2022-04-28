@@ -51,3 +51,4 @@ Survey of contemporary theories of anthropocentrism and its discontents, includi
 - 2017-19 PSGA Public Artists in Residence
 - 2017 PSGA Outstanding Club Campaign: Leading the Green Team fight for clean campus water
 - 2016 Green Fee Grant
+

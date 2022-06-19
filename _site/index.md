@@ -1,1 +1,0 @@
-![Amelia standing on a rock on Antelope Island, looking for Buffalo](/assets/images/buffalolookout.jpeg)

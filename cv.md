@@ -37,7 +37,11 @@ Read foundational texts and applied theoretical frameworks to urgent environment
 **EHUM 6850** | Issues in Environmental Humanities: Anthropocentrism & interrelations under climate change
 Survey of contemporary theories of anthropocentrism and its discontents, including New Materialist and Critical Animal Studies theory
 
+**EHUM 6850** | Issues in Environmental Humanities: The Histories of the Natural World in the Colonial Americas
+Survey of environmental histories, ethnographies, and visual analyses of the Colonial Americas
 
+**GNDR 6960** | Theorizing a Radical Future: Queer of Color Critique & Cultural Production
+Focused study of Queer of Color Critique and the cultural products it has influenced and been influenced by
 
 ## Awards and Grants 
 
@@ -51,4 +55,60 @@ Survey of contemporary theories of anthropocentrism and its discontents, includi
 - 2017-19 PSGA Public Artists in Residence
 - 2017 PSGA Outstanding Club Campaign: Leading the Green Team fight for clean campus water
 - 2016 Green Fee Grant
+
+## Academic Experience 
+
+**Graduate Research Assistant: NHMU Exhibits Department** Fall 2021- Present
+- Editorial assistant to the Natural History Museum of Utah’s chief exhibit developer
+- Leading image collection and data management for NHMU’s Wild Wasatch Front Field Guide
+- Prototyping new exhibit interactives, collecting visitor feedback and processing qualitative data
+- Working with NHMU scientists and volunteers to turn their research into public- facing stories and exhibits
+- Assisting preparator team in new exhibit fabrication
+
+**Teaching Assistant: Environmental Media** Spring 2018
+- Worked with Professors Jason Pine & Michelle Stewart to develop curriculum
+- Evaluated student work, giving feedback and grading weekly assignments
+- Lectured on my own research on post-industrial urban placemaking in the Anthropocene
+- Designed a final project for the course in which students wrote their own post-
+natural guides
+
+**Symposium Curator: Media, Society & the Arts Senior Symposium** Spring 2018
+- Solicited work from fellow academics and artists in the MSA department
+- Booked space, coordinated catering, and tech support for various installations
+- Designed marketing materials and promoted the show via social media
+
+## Work Experience
+
+**Director: The Mamarie Residency** 2020-2021 (On Leave)
+
+- Secured residency facilities in Nederland, Colorado, making connections with local artist groups
+- Select and invite artists, writers and scholars to the residency, ensuring their work will be well supported by our facilities
+- Secure funds to add to and maintain tool and material inventory
+
+**Office Manager: Heights Psychology Collective** 2019-2020
+- Designed and maintained website & local advertisements as well as backend file management
+- Digitized over 15 years of practice records in keeping with HIPPA Compliance
+- Facilitated transition to new practice name and logo
+- Oversaw office renovations & maintained a welcoming space
+
+**Café & Bar Manager: Housing Works Bookstore Cafe** 2018 – 2019
+- Manage a staff of baristas and 50+ weekly volunteers
+- Work with vendors and industry contacts to further develop the café’s offerings,
+including adding over 20 new beers, wines, and liquor capabilities to the menu
+- Boost café efficiency and oversee improvement projects, including an extensive
+renovation that positioned the space to make full use of our liquor license and event capabilities
+
+**Founder & Community Organizer: SUNY Purchase FreeStore** 2016 - 2018
+- Identified campus space and funding as well as necessary approvals to start the FreeStore
+- Managed a fleet of 15+ volunteers and interns to keep the space open 20+ hours a week with programming that ranged from workshops and lectures to concerts.
+- Promoted the service through social media content, posters, and original merchandise
+- Managed organization’s budget, handled performance contracts and worked to secure additional funds from various sources when needed
+- Found and trained successors to make sure the FreeStore was stained after leaving campus
+
+**President: Purchase College Green Team** 2015-2018
+- Organized campus wide sustainability initiatives including a campaign to clean up campus water
+- Raised funds and lead a service trip of 20+ students to Flint, MI to distribute water, winter clothes, and medical aid.
+- Lead discussions about environmental activist history and tactics, bringing in speakers and groups to lead direct action trainings.
+- Managed the organizations budget, working with other student groups and departments to program a diverse range of events and workshops.
+- Worked with other student groups across the country through the Post Landfill Action Network
 

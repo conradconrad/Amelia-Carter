@@ -2,13 +2,17 @@
 
 ## Profile
 
-Lively & engaged student of Cultural Geography, Media Studies, and Art History with an appetite for issues of queer ecology and environmental justice. A resolute researcher with a passion for interdisciplinary work and writing about the Anthropocene creatively. Particular areas of interest include but are not limited to: leisure studies, post-industrial communities, environmental justice, indigenous geographies, science and technology studies, affect, queer arts of living, labor, transit-oriented urbanism, and speculative cities.
+Lively & engaged historian of science, technology, and medicine with an appetite for issues of queer ecology and enviromental justice. A resolute researcher with a passion for interdisciplinary work and writing about urgent//emergent history creatively. Particular areas of interest include but are not limited to: science and technology studies, critical cultural geography, Indigenous epistemologies, technologies of visuality, reproductive labor, and museum studies.
 
 ## Education 
 
+**PhD Student** University of Pennsylvania 
+
+History and Sociology of Science, entered 2023
+
 **Master of Science,** University of Utah 
 
-Environmental Humanities, Expected May 2023
+Environmental Humanities, May 2023
 
 
 **Bachelor of Arts,** SUNY Purchase 
@@ -58,7 +62,11 @@ Focused study of Queer of Color Critique and the cultural products it has influe
 
 ## Academic Experience 
 
-**Graduate Research Assistant: NHMU Exhibits Department** Fall 2021- Present
+**Graduate Teaching Assistant** Various Courses, University of Pennsylvania, 2024-Present
+- Emergence of Modern Science, Fall 2024
+- Medicine in History, Spring 2025
+
+**Graduate Research Assistant: NHMU Exhibits Department** 2021-2023
 - Editorial assistant to the Natural History Museum of Utah’s chief exhibit developer
 - Leading image collection and data management for NHMU’s Wild Wasatch Front Field Guide
 - Prototyping new exhibit interactives, collecting visitor feedback and processing qualitative data
@@ -104,11 +112,3 @@ renovation that positioned the space to make full use of our liquor license and 
 - Promoted the service through social media content, posters, and original merchandise
 - Managed organization’s budget, handled performance contracts and worked to secure additional funds from various sources when needed
 - Found and trained successors to make sure the FreeStore was stained after leaving campus
-
-**President: Purchase College Green Team** 2015-2018
-- Organized campus wide sustainability initiatives including a campaign to clean up campus water
-- Raised funds and lead a service trip of 20+ students to Flint, MI to distribute water, winter clothes, and medical aid.
-- Lead discussions about environmental activist history and tactics, bringing in speakers and groups to lead direct action trainings.
-- Managed the organizations budget, working with other student groups and departments to program a diverse range of events and workshops.
-- Worked with other student groups across the country through the Post Landfill Action Network
-

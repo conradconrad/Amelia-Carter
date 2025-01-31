@@ -14,10 +14,14 @@ History and Sociology of Science, entered 2023
 
 Environmental Humanities, May 2023
 
+Thesis: Gazing at Queer Ecological Precarity: A Critical Cultural Geography of Fire Island, New York
 
 **Bachelor of Arts,** SUNY Purchase 
 
 Media, Society & the Arts \| Art History \| Film, May 2018
+
+Thesis: “Guided Resiliency: Post-Natural Place & Potential in Rochester, NY”
+
 
 ## Skills
 - Scientific, Professional and Public-facing writing 
@@ -29,6 +33,53 @@ Media, Society & the Arts \| Art History \| Film, May 2018
 - Microsoft Office & GSuite Administration
 - Adobe Creative Cloud
 - Tapestry & Rug Tufting
+
+## Presentations & Publications
+
+Carter, Amelia. "Cruising Ecotopia: Whither Queer Trans Ecology?" TSQ: Transgender Studies Quarterly, November 1, 2024. 
+
+Carter, Amelia. “Reading the Ebb and Flow of Cultural Resource Management on Fire Island National Seashore” Northeast Modern Language Association Conference Presentation, March 2023
+
+Carter, Amelia. “Blurring Barriers on Fire Island.” Edge Effects, June 2, 2022.
+
+
+## Awards and Grants 
+
+- 2022 Environmental Humanities Summer Engagement Grant 
+- 2021 Environmental Humanities Fall Outstanding Seminar Paper Award for “Semiotics of the Skep: Biopolitical Entanglements in the More-Than-Human Colony”
+- 2021-2022 Environmental Humanities Departmental Funding via Graduate Research Assistantship
+- 2018 Media, Society & the Arts Outstanding Senior Award
+- 2017 SUNY Purchase School of Natural & Social Sciences Undergraduate Research Support Award
+- 2017 Media, Society & the Arts Outstanding Junior Award
+- 2017 PSGA Outstanding Service: SUNY Purchase FreeStore
+- 2017-19 PSGA Public Artists in Residence
+- 2017 PSGA Outstanding Club Campaign: Leading the Green Team fight for clean campus water
+- 2016 Green Fee Grant
+
+## Academic Experience 
+
+**Graduate Teaching Assistant** History and Sociology of Science Department, University of Pennsylvania, 2024-Present
+- Emergence of Modern Science, Fall 2024
+- Medicine in History, Spring 2025
+
+**Graduate Research Assistant** Natural History Museum of Utah, Exhibits Department 2021-2023
+- Editorial assistant to the Natural History Museum of Utah’s chief exhibit developer
+- Leading image collection and data management for NHMU’s Wild Wasatch Front Field Guide
+- Prototyping new exhibit interactives, collecting visitor feedback and processing qualitative data
+- Working with NHMU scientists and volunteers to turn their research into public- facing stories and exhibits
+- Assisting preparator team in new exhibit fabrication
+
+**Teaching Assistant: Environmental Media** SUNY Purchase College, Spring 2018
+- Worked with Professors Jason Pine & Michelle Stewart to develop curriculum
+- Evaluated student work, giving feedback and grading weekly assignments
+- Lectured on my own research on post-industrial urban placemaking in the Anthropocene
+- Designed a final project for the course in which students wrote their own post-
+natural guides
+
+**Symposium Curator: Media, Society & the Arts Senior Symposium** SUNY Purchase College, Spring 2018
+- Solicited work from fellow academics and artists in the MSA department
+- Booked space, coordinated catering, and tech support for various installations
+- Designed marketing materials and promoted the show via social media
 
 ## Course Work 
 
@@ -46,44 +97,6 @@ Survey of environmental histories, ethnographies, and visual analyses of the Col
 
 **GNDR 6960** | Theorizing a Radical Future: Queer of Color Critique & Cultural Production
 Focused study of Queer of Color Critique and the cultural products it has influenced and been influenced by
-
-## Awards and Grants 
-
-- 2022 Environmental Humanities Summer Engagement Grant 
-- 2021 Environmental Humanities Fall Outstanding Seminar Paper Award for “Semiotics of the Skep: Biopolitical Entanglements in the More-Than-Human Colony”
-- 2021-2022 Environmental Humanities Departmental Funding via Graduate Research Assistantship
-- 2018 Media, Society & the Arts Outstanding Senior Award
-- 2017 SUNY Purchase School of Natural & Social Sciences Undergraduate Research Support Award
-- 2017 Media, Society & the Arts Outstanding Junior Award
-- 2017 PSGA Outstanding Service: SUNY Purchase FreeStore
-- 2017-19 PSGA Public Artists in Residence
-- 2017 PSGA Outstanding Club Campaign: Leading the Green Team fight for clean campus water
-- 2016 Green Fee Grant
-
-## Academic Experience 
-
-**Graduate Teaching Assistant** Various Courses, University of Pennsylvania, 2024-Present
-- Emergence of Modern Science, Fall 2024
-- Medicine in History, Spring 2025
-
-**Graduate Research Assistant: NHMU Exhibits Department** 2021-2023
-- Editorial assistant to the Natural History Museum of Utah’s chief exhibit developer
-- Leading image collection and data management for NHMU’s Wild Wasatch Front Field Guide
-- Prototyping new exhibit interactives, collecting visitor feedback and processing qualitative data
-- Working with NHMU scientists and volunteers to turn their research into public- facing stories and exhibits
-- Assisting preparator team in new exhibit fabrication
-
-**Teaching Assistant: Environmental Media** Spring 2018
-- Worked with Professors Jason Pine & Michelle Stewart to develop curriculum
-- Evaluated student work, giving feedback and grading weekly assignments
-- Lectured on my own research on post-industrial urban placemaking in the Anthropocene
-- Designed a final project for the course in which students wrote their own post-
-natural guides
-
-**Symposium Curator: Media, Society & the Arts Senior Symposium** Spring 2018
-- Solicited work from fellow academics and artists in the MSA department
-- Booked space, coordinated catering, and tech support for various installations
-- Designed marketing materials and promoted the show via social media
 
 ## Work Experience
 

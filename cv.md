@@ -1,9 +1,5 @@
 # Curriculum Vitae
 
-## Profile
-
-Lively & engaged historian of science, technology, and medicine with an appetite for issues of queer ecology and enviromental justice. A resolute researcher with a passion for interdisciplinary work and writing about urgent//emergent history creatively. Particular areas of interest include but are not limited to: science and technology studies, critical cultural geography, Indigenous epistemologies, technologies of visuality, reproductive labor, and museum studies.
-
 ## Education 
 
 **PhD Student** University of Pennsylvania 
@@ -22,25 +18,21 @@ Media, Society & the Arts \| Art History \| Film, May 2018
 
 Thesis: “Guided Resiliency: Post-Natural Place & Potential in Rochester, NY”
 
-
-## Skills
-- Scientific, Professional and Public-facing writing 
-- Qualitative Data Collection and Analysis 
-- Comprehensive social media management
-- Squarespace & Wordpess 
-- Canva 
-- Zotero
-- Microsoft Office & GSuite Administration
-- Adobe Creative Cloud
-- Tapestry & Rug Tufting
-
-## Presentations & Publications
+## Publications
 
 Carter, Amelia. "Cruising Ecotopia: Whither Queer Trans Ecology?" TSQ: Transgender Studies Quarterly, November 1, 2024. 
 
-Carter, Amelia. “Reading the Ebb and Flow of Cultural Resource Management on Fire Island National Seashore” Northeast Modern Language Association Conference Presentation, March 2023
-
 Carter, Amelia. “Blurring Barriers on Fire Island.” Edge Effects, June 2, 2022.
+
+## Presentations 
+
+**Organization of American Historians Annual Meeting; Chicago IL, April 2025**
+  
+  "Sapphasaura and the Queer Science of Reptile Reproduction at the American Museum of Natural History" *Emerging Voices in Queer and Trans Histories and Histories of Sexuality*, Committee on the Status of Lesbian, Gay, Bisexual, Transgender, and Queer (LGBTQ) Historians and Histories solicited panel. Endorsed by the WHA. 
+
+**Northeast Modern Language Association 54th Annual Convention; Niagra Falls NY, March 2023**
+
+  “Reading the Ebb and Flow of Cultural Resource Management on Fire Island National Seashore” *Natural Spaces and Managed Wilderness: Mediation in National and State Parks*, panel. 
 
 
 ## Awards and Grants 
@@ -56,11 +48,11 @@ Carter, Amelia. “Blurring Barriers on Fire Island.” Edge Effects, June 2, 20
 - 2017 PSGA Outstanding Club Campaign: Leading the Green Team fight for clean campus water
 - 2016 Green Fee Grant
 
-## Academic Experience 
+## Experience: On-Campus
 
 **Graduate Teaching Assistant** History and Sociology of Science Department, University of Pennsylvania, 2024-Present
-- Emergence of Modern Science, Fall 2024
-- Medicine in History, Spring 2025
+- Emergence of Modern Science, Fall 2024 & Summer 2025
+- Medicine in History, Spring & Fall 2025 
 
 **Graduate Research Assistant** Natural History Museum of Utah, Exhibits Department 2021-2023
 - Editorial assistant to the Natural History Museum of Utah’s chief exhibit developer
@@ -81,47 +73,36 @@ natural guides
 - Booked space, coordinated catering, and tech support for various installations
 - Designed marketing materials and promoted the show via social media
 
-## Course Work 
+## Experience: Beyond Campus 
 
-**EHUM 6102** | Research Methods in Environmental Humanities 
-Learned the basics of ecocriticism, visual analysis, ethnography, environmental history, science communication, and cultural geography
+**Founder & Artist-Owner: [The Garlic Press]([url](https://thegarlicpress.neocities.org/))** 2025-Present
+  
+  Phila, PA & Saugerties, NY
 
-**EHUM 6101** | Foundations of Environmental Humanities 
-Read foundational texts and applied theoretical frameworks to urgent environmental discourses
-
-**EHUM 6850** | Issues in Environmental Humanities: Anthropocentrism & interrelations under climate change
-Survey of contemporary theories of anthropocentrism and its discontents, including New Materialist and Critical Animal Studies theory
-
-**EHUM 6850** | Issues in Environmental Humanities: The Histories of the Natural World in the Colonial Americas
-Survey of environmental histories, ethnographies, and visual analyses of the Colonial Americas
-
-**GNDR 6960** | Theorizing a Radical Future: Queer of Color Critique & Cultural Production
-Focused study of Queer of Color Critique and the cultural products it has influenced and been influenced by
-
-## Work Experience
-
-**Director: The Mamarie Residency** 2020-2021 (On Leave)
-
-- Secured residency facilities in Nederland, Colorado, making connections with local artist groups
-- Select and invite artists, writers and scholars to the residency, ensuring their work will be well supported by our facilities
-- Secure funds to add to and maintain tool and material inventory
+**Director: The Mamarie Residency 2020-2021**
+ 
+  Nederland, CO 
 
 **Office Manager: Heights Psychology Collective** 2019-2020
-- Designed and maintained website & local advertisements as well as backend file management
-- Digitized over 15 years of practice records in keeping with HIPPA Compliance
-- Facilitated transition to new practice name and logo
-- Oversaw office renovations & maintained a welcoming space
+ 
+  Brooklyn, NY  
 
 **Café & Bar Manager: Housing Works Bookstore Cafe** 2018 – 2019
-- Manage a staff of baristas and 50+ weekly volunteers
-- Work with vendors and industry contacts to further develop the café’s offerings,
-including adding over 20 new beers, wines, and liquor capabilities to the menu
-- Boost café efficiency and oversee improvement projects, including an extensive
-renovation that positioned the space to make full use of our liquor license and event capabilities
+ 
+  New York City, NY 
+  
+**Founder & Community Organizer: Purchase FreeStore** 2016 - 2018
+ 
+  Purchase, NY 
 
-**Founder & Community Organizer: SUNY Purchase FreeStore** 2016 - 2018
-- Identified campus space and funding as well as necessary approvals to start the FreeStore
-- Managed a fleet of 15+ volunteers and interns to keep the space open 20+ hours a week with programming that ranged from workshops and lectures to concerts.
-- Promoted the service through social media content, posters, and original merchandise
-- Managed organization’s budget, handled performance contracts and worked to secure additional funds from various sources when needed
-- Found and trained successors to make sure the FreeStore was stained after leaving campus
+## Skills
+- Scientific, Professional and Public-facing writing 
+- Qualitative Data Collection and Analysis 
+- Comprehensive social media management
+- Squarespace & Wordpess 
+- Canva 
+- Zotero
+- Microsoft Office & GSuite Administration
+- Adobe Creative Cloud
+- Letterpress
+- Tapestry & Rug Tufting

@@ -4,13 +4,13 @@
 
 **PhD Student** University of Pennsylvania 
 
-History and Sociology of Science, entered 2023
+History and Sociology of Science, 2023 Cohort
 
 **Master of Science,** University of Utah 
 
 Environmental Humanities, May 2023
 
-Thesis: Gazing at Queer Ecological Precarity: A Critical Cultural Geography of Fire Island, New York
+Thesis: _Gazing at Queer Ecological Precarity: A Critical Cultural Geography of Fire Island, New York_
 
 **Bachelor of Arts,** SUNY Purchase 
 
@@ -20,11 +20,22 @@ Thesis: “Guided Resiliency: Post-Natural Place & Potential in Rochester, NY”
 
 ## Publications
 
-Carter, Amelia. "Cruising Ecotopia: Whither Queer Trans Ecology?" TSQ: Transgender Studies Quarterly, November 1, 2024. 
+Carter, Amelia. "BOOK REVIEW: 'Feminism in the Wild: How Human Biases Shape our Understanding of Animal Behavior' by Ambika Kamath and Melina Packer, 2025 (MIT Press)" _Backchannels_, November 24th, 2025. 
 
-Carter, Amelia. “Blurring Barriers on Fire Island.” Edge Effects, June 2, 2022.
+Carter, Amelia. "Cruising Ecotopia: Whither Queer Trans Ecology?" _TSQ: Transgender Studies Quarterly_, November 1, 2024. 
+
+Carter, Amelia. “Blurring Barriers on Fire Island.” _Edge Effects_, June 2, 2022.
 
 ## Presentations 
+
+**Joint mee0ng of the History of Science Society and the European Society for the History of
+Science, July 2026**
+
+  “Sapphasaura and the Queer Science of Knowledge Reproduc0on at the American Museum of Natural History” *Activist Epistemics and Artefacts: Facing Science while Making Science* Symposium.  
+
+**Queer Class Relations Conference; CLAGS: The Center for LGBTQ Studies at the CUNY Graduate Center, April 2026**
+
+  "Sapphasaura and the Queer Work of Reptile Reproduction at the American Museum of Natural History" *Queer and Trans Art and Archives,* panel. 
 
 **Organization of American Historians Annual Meeting; Chicago IL, April 2025**
   
@@ -48,11 +59,18 @@ Carter, Amelia. “Blurring Barriers on Fire Island.” Edge Effects, June 2, 20
 - 2017 PSGA Outstanding Club Campaign: Leading the Green Team fight for clean campus water
 - 2016 Green Fee Grant
 
+## Service
+
+Organizing Committee: _Queer Class/Room_, Graduate Student Symposium 2025-2026
+
+Graduate Student Representative: History and Sociology of Science Department 2024-Present
+
 ## Experience: On-Campus
 
 **Graduate Teaching Assistant** History and Sociology of Science Department, University of Pennsylvania, 2024-Present
 - Emergence of Modern Science, Fall 2024 & Summer 2025
-- Medicine in History, Spring & Fall 2025 
+- Medicine in History, Spring & Fall 2025
+- Health & Societies, Spring 2026
 
 **Graduate Research Assistant** Natural History Museum of Utah, Exhibits Department 2021-2023
 - Editorial assistant to the Natural History Museum of Utah’s chief exhibit developer

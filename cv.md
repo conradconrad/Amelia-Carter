@@ -20,7 +20,7 @@ Thesis: “Guided Resiliency: Post-Natural Place & Potential in Rochester, NY”
 
 ## Publications
 
-Carter, Amelia. "BOOK REVIEW: 'Feminism in the Wild: How Human Biases Shape our Understanding of Animal Behavior' by Ambika Kamath and Melina Packer, 2025 (MIT Press)" _Backchannels_, November 24th, 2025. 
+Carter, Amelia. "Review: _Feminism in the Wild: How Human Biases Shape our Understanding of Animal Behavior_ by Ambika Kamath and Melina Packer, 2025 (MIT Press)" _Backchannels_, November 24th, 2025. 
 
 Carter, Amelia. "Cruising Ecotopia: Whither Queer Trans Ecology?" _TSQ: Transgender Studies Quarterly_, November 1, 2024. 
 
@@ -28,10 +28,10 @@ Carter, Amelia. “Blurring Barriers on Fire Island.” _Edge Effects_, June 2, 
 
 ## Presentations 
 
-**Joint mee0ng of the History of Science Society and the European Society for the History of
+**Joint meeting of the History of Science Society and the European Society for the History of
 Science, July 2026**
 
-  “Sapphasaura and the Queer Science of Knowledge Reproduc0on at the American Museum of Natural History” *Activist Epistemics and Artefacts: Facing Science while Making Science* Symposium.  
+  “Sapphasaura and the Queer Science of Knowledge Reproduction at the American Museum of Natural History” *Activist Epistemics and Artefacts: Facing Science while Making Science* Symposium.  
 
 **Queer Class Relations Conference; CLAGS: The Center for LGBTQ Studies at the CUNY Graduate Center, April 2026**
 

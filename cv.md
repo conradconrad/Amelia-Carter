@@ -93,7 +93,7 @@ natural guides
 
 ## Experience: Beyond Campus 
 
-**Founder & Artist-Owner: [The Garlic Press]([url](https://thegarlicpress.neocities.org/))** 2025-Present
+**Founder & Artist-Owner: [The Garlic Press](https://thegarlicpress.neocities.org/)** 2025-Present
   
   Phila, PA & Saugerties, NY
 
